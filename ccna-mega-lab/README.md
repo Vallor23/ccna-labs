@@ -35,7 +35,7 @@ End devices (PCs, phones, laptops, APs, SRV1, WLC1) are not configured via CLI u
 | Part | Topic | Status |
 |------|-------|--------|
 | [Part 1](part1-initial-setup/report.md) | Initial Setup | ✅ |
-| [Part 2](part2/report.md) |  VLANs, Layer-2 EtherChannel | ⬜ |
+| [Part 2](part2-VLANs-Layer-2EtherChannel/report.md) |  VLANs, Layer-2 EtherChannel | ⬜ |
 | [Part 3](part3/report.md) | IP Addresses, Layer-3 EtherChannel, HSRP | ⬜ |
 | [Part 4](part4/report.md) | Rapid Spanning Tree Protocol | ⬜ |
 | [Part 5](part5/report.md) |  Static and Dynamic Routing | ⬜ |
