@@ -35,7 +35,7 @@ End devices (PCs, phones, laptops, APs, SRV1, WLC1) are not configured via CLI u
 | Part | Topic | Status |
 |------|-------|--------|
 | [Part 1](part1-initial-setup/report.md) | Initial Setup | ✅ |
-| [Part 2](part2/report.md) | VLANs | ⬜ |
+| [Part 2](part2/report.md) |  VLANs, Layer-2 EtherChannel | ⬜ |
 | [Part 3](part3/report.md) | STP | ⬜ |
 | [Part 4](part4/report.md) | EtherChannel | ⬜ |
 | [Part 5](part5/report.md) | Layer 3 Routing | ⬜ |
