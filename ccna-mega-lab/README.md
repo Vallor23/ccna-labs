@@ -36,14 +36,13 @@ End devices (PCs, phones, laptops, APs, SRV1, WLC1) are not configured via CLI u
 |------|-------|--------|
 | [Part 1](part1-initial-setup/report.md) | Initial Setup | ✅ |
 | [Part 2](part2/report.md) |  VLANs, Layer-2 EtherChannel | ⬜ |
-| [Part 3](part3/report.md) | STP | ⬜ |
-| [Part 4](part4/report.md) | EtherChannel | ⬜ |
-| [Part 5](part5/report.md) | Layer 3 Routing | ⬜ |
-| [Part 6](part6/report.md) | OSPF | ⬜ |
-| [Part 7](part7/report.md) | DHCP & DNS | ⬜ |
-| [Part 8](part8/report.md) | ACLs | ⬜ |
-| [Part 9](part9/report.md) | NAT | ⬜ |
-| [Part 10](part10/report.md) | Wireless & QoS | ⬜ |
+| [Part 3](part3/report.md) | IP Addresses, Layer-3 EtherChannel, HSRP | ⬜ |
+| [Part 4](part4/report.md) | Rapid Spanning Tree Protocol | ⬜ |
+| [Part 5](part5/report.md) |  Static and Dynamic Routing | ⬜ |
+| [Part 6](part6/report.md) | Network Services: DHCP, DNS, NTP, SNMP, Syslog, FTP, SSH, NAT | ⬜ |
+| [Part 7](part7/report.md) | Security: ACLs and Layer-2 Security Features | ⬜ |
+| [Part 8](part8/report.md) | IPv6 | ⬜ |
+| [Part 9](part9/report.md) | Wireless & QoS | ⬜ |
 
 ---
 
